@@ -1,0 +1,25 @@
+-------------------
+input chars = 
+ his eyes she eclipses and predominates the whole of her sex. it was not that he felt any emotion ak"
+predicted chars = 
+ente for see his forselvet. i should have been shought me inders to the seat of the therl, shing the"
+-------------------
+input chars = 
+she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin to love"
+predicted chars = 
+ an which he expereed in his coursion. how ve.  you was a clater in the calle this some tour of the "
+-------------------
+input chars = 
+in to love for irene adler. all emotions, and that one particularly, were abhorrent to his cold, pre"
+predicted chars = 
+ce parked and face as had been mempresing the room with his controusian with his orn of the realy.  "
+-------------------
+input chars = 
+hole of her sex. it was not that he felt any emotion akin to love for irene adler. all emotions, and"
+predicted chars = 
+ i have not do not than it as the leavy of the mander of the land of the clainter of an his would ha"
+-------------------
+input chars = 
+dler, of dubious and questionable memory. i had seen little of holmes lately. my marriage had drifte"
+predicted chars = 
+d an herr as i have been an here was there in the strange of the whole room this window a tine, said"
